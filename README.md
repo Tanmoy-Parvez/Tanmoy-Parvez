@@ -1,14 +1,14 @@
 <a href="#"><img width="100%" height="auto" src="https://www.mindinventory.com/blog/wp-content/uploads/2021/06/mern-stack.png" height="175px"/></a>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Tanmoy Parvez</h1>
-<h2 align="center">I'm a passionate Mern Stack Developer from Bangladesh.</h2>
+<h2 align="center">I'm a passionate Frontend Developer from Bangladesh.</h2>
 
 
 ## 1. 🙋‍♂️ Here Are Some Infos About Me:
 
 - 🔭 I’m currently working on **Mern Stack Web Development**
 
-- 🌱 I’m currently learning **React JS.**
+- 🌱 I’m currently learning **Node JS , Express Js and mongodb.**
 
 - 👯 I’m looking to collaborate on **Open Source Projects**
 

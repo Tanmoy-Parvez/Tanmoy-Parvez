@@ -1,4 +1,4 @@
-<a href="#"><img width="100%" height="50%" src="https://www.mobinius.com/wp-content/uploads/2021/06/Banner_Why-is-MERN-Stack-Considered-to-be-the-Best-for-Start-Ups_.jpg" height="175px"/></a>
+<a href="#"><img width="100%" height="auto" src="https://res.cloudinary.com/practicaldev/image/fetch/s--xq8xxUmL--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://external-preview.redd.it/x7vVnP3L75Wh4ApmXedKjze9b7ZuH5h7oW-4xbHMiHQ.jpg%3Fauto%3Dwebp%26s%3Db7d6873eed8c442bb685a083b3b4bfff6dd009ac" height="175px"/></a>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Tanmoy Parvez</h1>
 <h2 align="center">I'm a passionate Frontend Developer from Bangladesh.</h2>

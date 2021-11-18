@@ -35,7 +35,7 @@
 ## 3. 📊 My Github Status
 
   <br/>
-  <a href="https://github.com/Tanmoy-Parvez"><img alt="Tanmoy Parvez's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SubhamRaoniar28&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tanmoy-Parvez"/>
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 

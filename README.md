@@ -36,8 +36,8 @@
 
   <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tanmoy-Parvez"/>
-  
-  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+
+<b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
 <br/>
 <br/>
@@ -49,7 +49,7 @@
 <a href = "https://www.facebook.com/TanmoyParvez23/"><img src="https://img.icons8.com/fluency/48/000000/facebook.png"/></a>
 <a href = "https://www.linkedin.com/in/tanmoy-parvez/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 <a href = "https://www.instagram.com/tanmoyparvez/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
-<a href = "https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox"><img src="https://img.icons8.com/fluency/48/000000/gmail-new.png"/></a>
+<a href = "mailto:tanmoyparvez23@gmail.com"><img src="https://img.icons8.com/fluency/48/000000/gmail-new.png"/></a>
 <a href = "https://www.youtube.com/channel/UC7TKoePmJ8Q2vMrm6VFDrtg"><img src="https://img.icons8.com/color/48/000000/youtube-play.png"/></a>
 
 </p>

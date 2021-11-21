@@ -1,11 +1,11 @@
-<a href="#"><img width="100%" height="250px" src="https://res.cloudinary.com/practicaldev/image/fetch/s--xq8xxUmL--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://external-preview.redd.it/x7vVnP3L75Wh4ApmXedKjze9b7ZuH5h7oW-4xbHMiHQ.jpg%3Fauto%3Dwebp%26s%3Db7d6873eed8c442bb685a083b3b4bfff6dd009ac" height="175px"/></a>
+<a href="#"><img width="100%" height="100%" src="https://i.ibb.co/bRMgJZ7/LINKDEN-BANNER.png" height="175px"/></a>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Tanmoy Parvez</h1>
-<h2 align="center">I'm a passionate Frontend Developer from Bangladesh.</h2>
+<h2 align="center">I'm a passionate front-end web-developer from Bangladesh.</h2>
 
 ## 1. 🙋‍♂️ Here Are Some Infos About Me:
 
-- 🔭 I’m currently working on **Mern Stack Web Development**
+- 🔭 I’m currently working on **Frontend Web Development**
 
 - 🌱 I’m currently learning **Node JS , Express Js and mongodb.**
 
@@ -35,11 +35,10 @@
 ## 3. 📊 My Github Status
 
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tanmoy-Parvez"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tanmoy-Parvez" width="500px" height="200px"/>
 
 <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
-<br/>
 <br/>
 
 ## 4. Connect with me:

@@ -1,7 +1,7 @@
 <a href="#"><img width="100%" height="100%" src="https://i.ibb.co/bRMgJZ7/LINKDEN-BANNER.png" height="175px"/></a>
 
 <h1 align="center">Hello There <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Tanmoy Parvez</h1>
-<h2 align="center">I'm a Passionate Full Stack Web Developer From Bangladesh.</h2>
+<h2 align="center">I'm a Passionate Mern Stack Web Developer From Bangladesh.</h2>
 
 ## 1. 🙋‍♂️ Here Are Some Info About Me:
 

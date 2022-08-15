@@ -1,25 +1,27 @@
 <!-- <a href="#"><img width="100%" height="100%" src="https://i.ibb.co/bRMgJZ7/LINKDEN-BANNER.png"/></a> -->
 
-<a href="#"><img width="100%" height="300px" src="https://c.tenor.com/2uyENRmiUt0AAAAC/coding.gif"/></a>
+<a href="#"><img width="100%" height="300px" src="https://i.ibb.co/LNsJcqx/linkden-banner.png"/></a>
+</br>
+</br>
+<marquee>
 
-<h1 align="center">Hello There <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" height="30px">, I'm Tanmoy Parvez</h1>
-<h2 align="center">I'm a Passionate Full Stack Web Developer From Bangladesh.</h2>
+<h1><b>console.log("Hello World!")</b></h1>
+</marquee>
 
-## 1. 🙋‍♂️ Here Are Some Info About Me:
+## 🧐 **Current Overview**:
 
-- 🔭 I’m currently working on **Frontend Web Development**
+- 🔭 I’m currently working at **Programming Hero**
 
-- 🌱 I’m currently learning **Node JS , Express Js and Mongodb.**
+- 🌱 I’m currently exploring **Node JS & JavaScript Problem Solving**
 
 - 👯 I’m looking to collaborate on **Open Source Projects**
 
+- ⚡ Fun fact **I love coding and creating awesome websites**
 - 📫 How to reach me **tanmoyparvez23@gamil.com**
-
-- ⚡ Fun fact **I love coding and creating awesome websites.**
 
 <br/>
 
-## 2. 🚀 Languages And Tools:
+## 💻 **Technologies And Tools**:
 
 <p align="left"> 
     <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a> 
@@ -36,16 +38,13 @@
 
 <br/>
 
-## 3. 📊 My Github Status
+## 🚀 **Current Github Status**:
 
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tanmoy-Parvez"/>
-
-<b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tanmoy-Parvez" wid/>
 
 <br/>
 
-## 4. Connect With Me:
+## 📱 **Reach Me**:
 
 <p align="left">
 

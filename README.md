@@ -1,12 +1,9 @@
 <!-- <a href="#"><img width="100%" height="100%" src="https://i.ibb.co/bRMgJZ7/LINKDEN-BANNER.png"/></a> -->
 
-<a href="#"><img width="100%" height="300px" src="https://i.ibb.co/LNsJcqx/linkden-banner.png"/></a>
+<a href="#"><img width="100%" height="400px" src="https://i.ibb.co/LNsJcqx/linkden-banner.png"/></a>
 </br>
-</br>
-<marquee>
 
-<h1><b>console.log("Hello World!")</b></h1>
-</marquee>
+<h1 style="text-align:center"><b>"Hello World!"</b></h1>
 
 ## 🧐 **Current Overview**:
 

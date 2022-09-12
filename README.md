@@ -1,6 +1,6 @@
 <!-- <a href="#"><img width="100%" height="100%" src="https://i.ibb.co/bRMgJZ7/LINKDEN-BANNER.png"/></a> -->
 
-<a href="#"><img width="100%" height="100%" src="https://i.ibb.co/LNsJcqx/linkden-banner.png"/></a>
+<a href="#"><img width="100%" height="100%" src="https://i.ibb.co/SXYnH8G/linkden-banner-LINKDEN-BANNER.png"/></a>
 </br>
 
 <div style="text-align:center">

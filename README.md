@@ -20,21 +20,28 @@
 
 <br/>
 
-## 💻 **Technologies And Tools**:
+## :bulb: Tools And Technologies_
 
-<p align="left"> 
-    <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a> 
-    <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a> 
-    <a href="https://getbootstrap.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/> </a> 
-    <a href="[https://.com](https://tailwindcss.com/)" target="_blank"> <img src="https://vasterra.com/blog/wp-content/uploads/2021/08/Tailwind-img.png" width="50px"/> </a> 
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> </a> 
-    <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://cdn.iconscout.com/icon/free/png-256/typescript-1174965.png" width="40px"/> </a> 
-    <a style="padding-right:8px;" href="https://nodejs.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/nodejs.png"/> </a> 
-    <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="48" height="48"/> </a> 
-    <a href="https://firebase.google.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/firebase.png"/> </a> 
-    <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a> 
+<p align="center">
+<img height="150" src="https://raw.githubusercontent.com/ProgrammingHero1/ProgrammingHero1/main/image/HTML.png"/>
+<img height="150" src="https://raw.githubusercontent.com/ProgrammingHero1/ProgrammingHero1/main/image/CSS.png"/>
+<img height="150" src="https://raw.githubusercontent.com/ProgrammingHero1/ProgrammingHero1/main/image/Bootstrap.png"/>
+<img height="150" src="https://raw.githubusercontent.com/ProgrammingHero1/ProgrammingHero1/main/image/Tailwind.png"/>
+</p>
+<p align="center">
+<img height="150" src="https://raw.githubusercontent.com/ProgrammingHero1/ProgrammingHero1/main/image/JavaScript.png"/>
+<img height="150" src="https://raw.githubusercontent.com/ProgrammingHero1/ProgrammingHero1/main/image/React.png"/>
+<img height="150" src="https://raw.githubusercontent.com/ProgrammingHero1/ProgrammingHero1/main/image/ReactRouterDom.png"/>
+<img height="150" src="https://raw.githubusercontent.com/ProgrammingHero1/ProgrammingHero1/main/image/Firebase.png"/>
+</p>
+<p align="center">
+<img height="150" src="https://raw.githubusercontent.com/ProgrammingHero1/ProgrammingHero1/main/image/Nodejs.png"/>
+<img height="150" src="https://raw.githubusercontent.com/ProgrammingHero1/ProgrammingHero1/main/image/Express.png"/>
+<img height="150" src="https://raw.githubusercontent.com/ProgrammingHero1/ProgrammingHero1/main/image/MongoDB.png"/>
+<img height="150" src="https://raw.githubusercontent.com/ProgrammingHero1/ProgrammingHero1/main/image/JWT.png"/>
 </p>
 
+<br/>
 <br/>
 
 ## 🚀 **Current Github Status**:

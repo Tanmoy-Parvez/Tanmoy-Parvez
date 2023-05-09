@@ -25,8 +25,9 @@
 <p align="center">
 <img height="150" src="images/technologies/HTML5.png"/>
 <img height="150" src="images/technologies/CSS3.png"/>
-<img height="150" src="https://raw.githubusercontent.com/ProgrammingHero1/ProgrammingHero1/main/image/Bootstrap.png"/>
-<img height="150" src="https://raw.githubusercontent.com/ProgrammingHero1/ProgrammingHero1/main/image/Tailwind.png"/>
+<img height="150" src="images/technologies/BOOTSTRAP.png"/>
+<img height="150" src="images/technologies/TAILWIND.png"/>
+
 </p>
 <p align="center">
 <img height="150" src="https://raw.githubusercontent.com/ProgrammingHero1/ProgrammingHero1/main/image/JavaScript.png"/>

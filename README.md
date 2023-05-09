@@ -27,19 +27,15 @@
 <img height="150" src="images/technologies/CSS3.png"/>
 <img height="150" src="images/technologies/BOOTSTRAP.png"/>
 <img height="150" src="images/technologies/TAILWIND.png"/>
+</p>
+<p align="center">
+<img height="150" src="images/technologies/JS.png"/>
+<img height="150" src="images/technologies/REACT.png"/>
+<img height="150" src="images/technologies/NEXTJS.png"/>
+<img height="150" src="images/technologies/FIREBASE.png"/>
+</p>
 
-</p>
-<p align="center">
-<img height="150" src="https://raw.githubusercontent.com/ProgrammingHero1/ProgrammingHero1/main/image/JavaScript.png"/>
-<img height="150" src="https://raw.githubusercontent.com/ProgrammingHero1/ProgrammingHero1/main/image/React.png"/>
-<img height="150" src="https://raw.githubusercontent.com/ProgrammingHero1/ProgrammingHero1/main/image/ReactRouterDom.png"/>
-<img height="150" src="https://raw.githubusercontent.com/ProgrammingHero1/ProgrammingHero1/main/image/Firebase.png"/>
-</p>
-<p align="center">
-<img height="150" src="https://raw.githubusercontent.com/ProgrammingHero1/ProgrammingHero1/main/image/Nodejs.png"/>
-<img height="150" src="https://raw.githubusercontent.com/ProgrammingHero1/ProgrammingHero1/main/image/Express.png"/>
-<img height="150" src="https://raw.githubusercontent.com/ProgrammingHero1/ProgrammingHero1/main/image/MongoDB.png"/>
-<img height="150" src="https://raw.githubusercontent.com/ProgrammingHero1/ProgrammingHero1/main/image/JWT.png"/>
+
 </p>
 
 <br/>

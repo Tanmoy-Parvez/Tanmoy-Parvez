@@ -9,6 +9,7 @@
 
 ## :computer: Technologies I am proficient in\_
 
+<br/>
 <p align="center">
 <img height="80" src="images/technologies/HTML5.png"/>
 <img height="80" src="images/technologies/CSS3.png"/>

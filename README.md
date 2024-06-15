@@ -4,7 +4,7 @@
 </br>
 
 <p align="center">
-<img height="80" src="images/Hello World.gif"/>
+<img height="200" src="images/Hello World.gif"/>
 </p>
 
 ## 🧐 **Current Overview**:

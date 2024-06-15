@@ -34,10 +34,10 @@
   <img width="60%" src="https://github-readme-streak-stats.herokuapp.com?user=Tanmoy-Parvez&theme=react&hide_border=true&background=161C27&stroke=0D1117&fire=fb8c00&sideLabels=fff&currStreakNum=fff&ring=fff&currStreakLabel=fff&sideNums=fff" />
 </p>
 
-## :mailbox: Reach Out to Me\_
+<br/>
+<br/>
 
-<br/>
-<br/>
+## :mailbox: Reach Out to Me\_
 
 **_<p align="center"> [<img height="50" src="images/social-medias/LINKEDIN.png">](https://www.linkedin.com/in/tanmoy-parvez/)[<img height="50" src="images/social-medias/FACEBOOK.png">](https://www.facebook.com/TanmoyParvez23/)[<img height="50" src="images/social-medias/TWITTER.png">](https://www.linkedin.com/in/tanmoy-parvez/) </p>_**
 

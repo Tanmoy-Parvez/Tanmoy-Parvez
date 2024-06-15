@@ -20,7 +20,9 @@
 
 <br/>
 
-## :bulb: Tools And Technologies\_
+## :computer: Technologies I am proficient in\_
+
+Technologies I am proficient in
 
 <p align="center">
 <img height="80" src="images/technologies/HTML5.png"/>
@@ -38,14 +40,6 @@
 <img height="80" src="images/technologies/EXPRESSJS.png"/>
 <img height="80" src="images/technologies/MONGODB.png"/>
 </p>
-
-<br/>
-<br/>
-
-## 🚀 **Current Github Status**:
-
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tanmoy-Parvez" wid/>
-
 <br/>
 
 ## 📱 **Reach Me**:

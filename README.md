@@ -22,8 +22,6 @@
 
 ## :computer: Technologies I am proficient in\_
 
-Technologies I am proficient in
-
 <p align="center">
 <img height="80" src="images/technologies/HTML5.png"/>
 <img height="80" src="images/technologies/CSS3.png"/>

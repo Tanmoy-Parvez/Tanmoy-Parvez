@@ -39,6 +39,7 @@
 ## :mailbox: Reach Out to Me\_
 
 <br/>
+
 **_<p align="center"> [<img height="50" src="images/social-medias/LINKEDIN.png">](https://www.linkedin.com/in/tanmoy-parvez/)[<img height="50" src="images/social-medias/FACEBOOK.png">](https://www.facebook.com/TanmoyParvez23/)[<img height="50" src="images/social-medias/TWITTER.png">](https://www.linkedin.com/in/tanmoy-parvez/) </p>_**
 
 <br/>

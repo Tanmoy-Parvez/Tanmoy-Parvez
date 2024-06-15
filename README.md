@@ -7,19 +7,6 @@
 <img height="200" src="images/Hello World.gif"/>
 </p>
 
-## 🧐 **Current Overview**:
-
-- 🔭 I’m currently working at **Programming Hero**
-
-- 🌱 I’m currently exploring **Node JS & JavaScript Problem Solving**
-
-- 👯 I’m looking to collaborate on **Open Source Projects**
-
-- ⚡ Fun fact **I love coding and creating awesome websites**
-- 📫 How to reach me **tanmoyparvez23@gamil.com**
-
-<br/>
-
 ## :computer: Technologies I am proficient in\_
 
 <p align="center">
@@ -38,6 +25,26 @@
 <img height="80" src="images/technologies/EXPRESSJS.png"/>
 <img height="80" src="images/technologies/MONGODB.png"/>
 </p>
+<br/>
+
+## :chart_with_upwards_trend: Current Statistical Overview\_
+
+<br />
+<p align="center">
+  <img width="60%" src="https://github-readme-streak-stats.herokuapp.com?user=Tanmoy-Parvez&theme=react&hide_border=true&background=161C27&stroke=0D1117&fire=fb8c00&sideLabels=fff&currStreakNum=fff&ring=fff&currStreakLabel=fff&sideNums=fff" />
+</p>
+
+## 🧐 **Current Overview**:
+
+- 🔭 I’m currently working at **Programming Hero**
+
+- 🌱 I’m currently exploring **Node JS & JavaScript Problem Solving**
+
+- 👯 I’m looking to collaborate on **Open Source Projects**
+
+- ⚡ Fun fact **I love coding and creating awesome websites**
+- 📫 How to reach me **tanmoyparvez23@gamil.com**
+
 <br/>
 
 ## 📱 **Reach Me**:

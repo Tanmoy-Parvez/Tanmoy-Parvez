@@ -3,9 +3,9 @@
 <a href="#"><img width="100%" height="100%" src="https://i.ibb.co/6njkJH9/Banner-1.png"/></a>
 </br>
 
-<div style="text-align:center">
-    <h1><b>"Hello World!"</b></h1>
-</div>
+<p align="center">
+<img height="80" src="images/Hello World.gif"/>
+</p>
 
 ## 🧐 **Current Overview**:
 

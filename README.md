@@ -34,6 +34,16 @@
   <img width="60%" src="https://github-readme-streak-stats.herokuapp.com?user=Tanmoy-Parvez&theme=react&hide_border=true&background=161C27&stroke=0D1117&fire=fb8c00&sideLabels=fff&currStreakNum=fff&ring=fff&currStreakLabel=fff&sideNums=fff" />
 </p>
 
+## :mailbox: Reach Out to Me\_
+
+<br/>
+<br/>
+
+**_<p align="center"> [<img height="55" src="images/social-medias/LINKEDIN.png">](https://www.linkedin.com/in/tanmoy-parvez/)[<img height="55" src="images/social-medias/FACEBOOK.png">](https://www.facebook.com/TanmoyParvez23/)[<img height="55" src="images/social-medias/TWITTER.png">](https://www.linkedin.com/in/tanmoy-parvez/) </p>_**
+
+<br/>
+<br/>
+
 ## 🧐 **Current Overview**:
 
 - 🔭 I’m currently working at **Programming Hero**
@@ -46,15 +56,5 @@
 - 📫 How to reach me **tanmoyparvez23@gamil.com**
 
 <br/>
-
-## 📱 **Reach Me**:
-
-<p align="left">
-
-<a href = "https://www.facebook.com/TanmoyParvez23/"><img src="https://img.icons8.com/fluency/48/000000/facebook.png"/></a>
-<a href = "https://www.linkedin.com/in/tanmoy-parvez/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-<a href = "https://www.instagram.com/tanmoyparvez/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
-<a href = "mailto:tanmoyparvez23@gmail.com"><img src="https://img.icons8.com/fluency/48/000000/gmail-new.png"/></a>
-<a href = "https://www.youtube.com/channel/UC7TKoePmJ8Q2vMrm6VFDrtg"><img src="https://img.icons8.com/color/48/000000/youtube-play.png"/></a>
 
 </p>

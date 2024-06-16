@@ -1,11 +1,14 @@
-<!-- <a href="#"><img width="100%" height="100%" src="https://i.ibb.co/bRMgJZ7/LINKDEN-BANNER.png"/></a> -->
-
-<a href="#"><img width="100%" height="100%" src="https://i.ibb.co/6njkJH9/Banner-1.png"/></a>
+<a href="https://i.ibb.co/6njkJH9/Banner-1.png"><img width="100%" height="100%" src="images/Banner.png"/></a>
 </br>
 
 <p align="center">
 <img height="200" src="images/Hello World.gif"/>
 </p>
+
+<h1 align="center">I'm Tanmoy Parvez</h1>
+<h4 align="center">Mentor (Advance Web Course) | Web Developer | Tech Enthusiast</h4>
+
+<br/>
 
 ## :computer: Technologies I am proficient in\_
 
@@ -47,7 +50,7 @@
 
 ## 👁‍🗨 Current Overview\_
 
-- ### 🔭 I’m working - at **Programming Hero**
+- ### 🔭 I’m working - at **Programming Hero as a Mentor (Apollo L2)**
 
 - ### 🌱 I’m exploring - **Next.js Latest Features**
 

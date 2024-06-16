@@ -45,16 +45,17 @@
 
 <br/>
 
-## 🧐 **Current Overview**:
+## 👁‍🗨 Current Overview\_
 
-- 🔭 I’m currently working at **Programming Hero**
+- ### 🔭 I’m working - at **Programming Hero**
 
-- 🌱 I’m currently exploring **Node JS & JavaScript Problem Solving**
+- ### 🌱 I’m exploring - **Next.js Latest Features**
 
-- 👯 I’m looking to collaborate on **Open Source Projects**
+- ### 👯 I’m looking - to collaborate on **Open Source Projects**
 
-- ⚡ Fun fact **I love coding and creating awesome websites**
-- 📫 How to reach me **tanmoyparvez23@gamil.com**
+- ### . I’m helping - people learn **Web Development**
+
+- ### ⚡ Fun fact - I enjoy watching **Tech Tips Reels and Motion Graphics**
 
 <br/>
 

@@ -53,7 +53,7 @@
 
 - ### 👯 I’m looking - to collaborate on **Open Source Projects**
 
-- ### . I’m helping - people learn **Web Development**
+- ### 🤗 I’m helping - people learn **Web Development**
 
 - ### ⚡ Fun fact - I enjoy watching **Tech Tips Reels and Motion Graphics**
 

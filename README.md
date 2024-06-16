@@ -41,7 +41,7 @@
 
 <br/>
 
-**_<p align="center"> [<img height="50" src="images/social-medias/LINKEDIN.png">](https://www.linkedin.com/in/tanmoy-parvez/)[<img height="50" src="images/social-medias/FACEBOOK.png">](https://www.facebook.com/TanmoyParvez23/)[<img height="50" src="images/social-medias/TWITTER.png">](https://www.linkedin.com/in/tanmoy-parvez/) </p>_**
+**_<p align="center"> [<img src="images/social-medias/LINKEDIN.png">](https://www.linkedin.com/in/tanmoy-parvez/)[<img src="images/social-medias/FACEBOOK.png">](https://www.facebook.com/TanmoyParvez23/)[<img src="images/social-medias/TWITTER.png">](https://www.linkedin.com/in/tanmoy-parvez/) </p>_**
 
 <br/>
 <br/>

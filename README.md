@@ -22,15 +22,16 @@
 <img height="60" src="images/technologies/JS.png"/>
 <img height="60" src="images/technologies/TS.png"/>
 <img height="60" src="images/technologies/REDUX.png"/>
+<img height="60" src="images/technologies/REACT.png"/>
 </p>
 <p align="center">
-<img height="60" src="images/technologies/REACT.png"/>
 <img height="60" src="images/technologies/NEXTJS.png"/>
 <img height="60" src="images/technologies/FIREBASE.png"/>
 <img height="60" src="images/technologies/NODEJS.png"/>
 <img height="60" src="images/technologies/EXPRESSJS.png"/>
 <img height="60" src="images/technologies/MONGODB.png"/>
 <img height="60" src="images/technologies/MONGOOSE.png"/>
+<img height="60" src="images/technologies/PRISMA.png"/>
 <img height="60" src="images/technologies/MATERIAL UI.png"/>
 <img height="60" src="images/technologies/ANTD.png"/>
 </p>

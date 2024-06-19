@@ -18,6 +18,7 @@
 <img height="60" src="images/technologies/CSS3.png"/>
 <img height="60" src="images/technologies/TAILWIND.png"/>
 <img height="60" src="images/technologies/BOOTSTRAP.png"/>
+<img height="60" src="images/technologies/SASS.png"/>
 <img height="60" src="images/technologies/JS.png"/>
 <img height="60" src="images/technologies/TS.png"/>
 <img height="60" src="images/technologies/REDUX.png"/>

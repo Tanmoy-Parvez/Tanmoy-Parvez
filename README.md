@@ -29,6 +29,7 @@
 <img height="60" src="images/technologies/NODEJS.png"/>
 <img height="60" src="images/technologies/EXPRESSJS.png"/>
 <img height="60" src="images/technologies/MONGODB.png"/>
+<img height="60" src="images/technologies/MATERIAL UI.png"/>
 </p>
 <br/>
 

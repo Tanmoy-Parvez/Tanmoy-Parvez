@@ -30,6 +30,7 @@
 <img height="60" src="images/technologies/EXPRESSJS.png"/>
 <img height="60" src="images/technologies/MONGODB.png"/>
 <img height="60" src="images/technologies/MATERIAL UI.png"/>
+<img height="60" src="images/technologies/ANTD.png"/>
 </p>
 <br/>
 

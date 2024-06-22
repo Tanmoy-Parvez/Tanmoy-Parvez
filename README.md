@@ -36,6 +36,8 @@
 <br />
 <p align="center">
   <img width="60%" src="https://github-readme-streak-stats.herokuapp.com?user=Tanmoy-Parvez&theme=react&hide_border=true&background=161C27&stroke=0D1117&fire=fb8c00&sideLabels=fff&currStreakNum=fff&ring=fff&currStreakLabel=fff&sideNums=fff" />
+  <img width="60%" src="https://github-readme-stats.vercel.app/api?username=Tanmoy-Parvez&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=ambient_gradient" />
+  
 </p>
 
 <br/>

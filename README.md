@@ -58,9 +58,9 @@
 
 ## 👁‍🗨 Current Overview\_
 
-- ### 🔭 I’m working - at **Programming Hero as a Mentor (Apollo L2)**
+- ### 🔭 I’m working - at **Spaceharpoon as a Web Developer**
 
-- ### 🌱 I’m exploring - **Next.js Latest Features**
+- ### 🌱 I’m exploring - **Web3 & Next.js Latest Features**
 
 - ### 👯 I’m looking - to collaborate on **Open Source Projects**
 

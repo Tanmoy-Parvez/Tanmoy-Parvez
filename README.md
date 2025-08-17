@@ -56,17 +56,19 @@
 
 <br/>
 
-## 👁‍🗨 Current Overview\_
+## 👁‍🗨 Current Overview
 
-- ### 🔭 I’m working - at **Spaceharpoon as a Web Developer**
+- 🔭 **Working** as a Web Developer at [Spaceharpoon](https://www.spaceharpoon.com)
 
-- ### 🌱 I’m exploring - **Web3 & Next.js Latest Features**
+- 🧑‍🏫 **Mentoring** learners at [Programming Hero (Level-2)](https://web.programming-hero.com/home/level2)
 
-- ### 👯 I’m looking - to collaborate on **Open Source Projects**
+- 🌱 **Exploring** Web3 and the latest features in Next.js
 
-- ### 🤗 I’m helping - people learn **Web Development**
+- 👯 **Collaborating** on Open Source Projects
 
-- ### ⚡ Fun fact - I enjoy watching **Tech Tips Reels and Motion Graphics**
+- 🤗 **Helping** people learn Web Development
+
+- ⚡ **Enjoying** tech tips reels and motion graphics
 
 <br/>
 

@@ -6,7 +6,7 @@
 </p>
 
 <h1 align="center">I'm Tanmoy Parvez</h1>
-<h4 align="center">Web Developer | Mentor | Tech Enthusiast</h4>
+<h4 align="center">Web Developer | Educator | Tech Enthusiast</h4>
 
 <br/>
 

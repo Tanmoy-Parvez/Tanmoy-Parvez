@@ -62,7 +62,7 @@
 
 - 🧑‍🏫 **Mentoring** learners at [Programming Hero (Level-2)](https://web.programming-hero.com/home/level2)
 
-- 🌱 **Exploring** Web3 and the latest features in Next.js
+- 🌱 **Exploring** Web3 and React Native development
 
 - 👯 **Collaborating** on Open Source Projects
 

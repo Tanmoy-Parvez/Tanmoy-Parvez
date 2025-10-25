@@ -23,6 +23,7 @@
 <img height="60" src="images/technologies/TS.png"/>
 <img height="60" src="images/technologies/REDUX.png"/>
 <img height="60" src="images/technologies/REACT.png"/>
+<img height="60" src="images/technologies/EXPO.png"/>
 </p>
 <p align="center">
 <img height="60" src="images/technologies/NEXTJS.png"/>

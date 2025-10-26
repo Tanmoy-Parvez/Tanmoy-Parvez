@@ -35,6 +35,7 @@
 <img height="60" src="images/technologies/PRISMA.png"/>
 <img height="60" src="images/technologies/MATERIAL UI.png"/>
 <img height="60" src="images/technologies/ANTD.png"/>
+<img height="60" src="images/technologies/PYTHON.png"/>
 </p>
 <br/>
 
